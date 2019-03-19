@@ -32,7 +32,7 @@ netdata_debian_pre_reqs:
   - cron
   - curl
   - gcc
-  - git
+  #- git
   - libmnl-dev
   - libmnl0
   - libuuid1
